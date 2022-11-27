@@ -29,7 +29,7 @@ export const socialLinks = [
     },
     {
         title: 'Instagram',
-        url: 'https://www.instagram.com/trehansangpriya/',
+        url: 'https://www.instagram.com/trehan.sangpriya/',
         icon: <SiInstagram />
     },
     {
