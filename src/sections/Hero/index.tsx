@@ -1,5 +1,5 @@
 import React from 'react'
-import { heroLinks } from '@/Data/Links'
+import { heroLinks } from '@/data'
 
 const Hero = () => {
     const aboutPills = ['Storyteller', 'Builder', 'Mentor', 'Learner']

@@ -1,0 +1,1 @@
+export {heroLinks,socialLinks} from './Links'

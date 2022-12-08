@@ -1,8 +1,9 @@
 import React from 'react'
 import { SiGithub, SiHashnode, SiInstagram, SiLinkedin, SiSubstack, SiTwitter } from 'react-icons/si'
 import { FiMail } from 'react-icons/fi'
+import { NextPage } from 'next'
 
-const Socials = () => {
+const Socials: NextPage = () => {
     const socialLinks = [
         {
             title: 'Email',

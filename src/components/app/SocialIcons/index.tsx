@@ -1,5 +1,5 @@
 import React from 'react'
-import { socialLinks } from '@/Data/Links'
+import { socialLinks } from '@/data'
 
 const SocialIcons = () => {
     return (

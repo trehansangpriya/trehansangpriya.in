@@ -1,8 +1,9 @@
 import Head from 'next/head'
 import React, { useState } from 'react'
 import dayjs from 'dayjs'
+import { NextPage } from 'next'
 
-const NewTab = () => {
+const NewTab: NextPage = () => {
     const [time, setTime] = useState(dayjs().format('hh:mm A'))
     const [date, setDate] = useState(dayjs().format('MMMM D, dddd'))
 
